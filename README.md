@@ -12,15 +12,15 @@ This is my personal portfolio website built using **HTML & CSS only**.
 
 ## 🧑‍💻 Sections Included
 
-Hero Section —
+Hero Section 
 
-About Me —
+About Me 
 
-Skills Section — 
+Skills Section 
 
-Projects — Interactive tilt cards with icons
+Projects
 
-Contact Section — Smooth anchor navigation
+Contact Section 
 
 ---
 
@@ -31,8 +31,6 @@ Contact Section — Smooth anchor navigation
 HTML
 
 CSS 
-
-Google Fonts 
 
 ---
 
